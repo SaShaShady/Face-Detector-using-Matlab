@@ -1,7 +1,5 @@
-# Matlab_projects
-Just a collection of a few of my MATLAB Projects
 
-Face Detector: 
+#Face_Detector_using_Matlab
 In this project we detect real-time faces using AlexNet Convolutional Neural Network in Deep Learning. 
 
 STEP 1------------
