@@ -8,7 +8,7 @@ STEP 1------------
 I haven't included the DataSet because of privacy reasons but surely do check out the Data_Collection script. It has a code that can capture 150 images using the webcam. In my dataset, I have taken my face and Actress Mayim Bialik's face as the training and testing Dataset.
 
 STEP 2------------
-The file train.m contains the training script for building a model.I have taken 20 epochs but you can customise that according to your needs. 
+The file train.m contains the training script for building a model.I have taken 20 epochs but you can customise that according to your needs. The model gives back a myNet1.mat file.
 ![training](https://user-images.githubusercontent.com/51987596/131334371-c5a9c778-c7c1-49d6-b314-47c4ca0845d2.png)
 
 STEP 3------------
